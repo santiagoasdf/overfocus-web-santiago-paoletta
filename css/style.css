@@ -1,0 +1,33 @@
+* {margin: 0; 
+    padding: 0;
+    box-sizing: border-box;
+    overflow: auto;
+
+}
+
+.over-logo {padding: 15px;
+    text-align: center;
+}
+
+ul {list-style: none;}
+
+header nav ul li{
+    display: inline-block;
+
+
+}
+
+.barra-navegacion {
+    text-align: center;
+}
+
+nav {background-color: grey;
+    padding: 15px;
+}
+
+a {color: white;
+    }
+
+header {background-color: black;}
+
+h1 {color: aliceblue;}

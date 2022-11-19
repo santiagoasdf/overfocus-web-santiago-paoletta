@@ -2,32 +2,14 @@
     padding: 0;
     box-sizing: border-box;
     overflow: auto;
-
 }
 
-.over-logo {padding: 15px;
-    text-align: center;
+.overfocus {color: white;
+background-color: black;
+text-align: center;
+padding: 15px;
 }
 
-ul {list-style: none;}
-
-header nav ul li{
-    display: inline-block;
-
-
+.menu-over {
+    text-align:center;
 }
-
-.barra-navegacion {
-    text-align: center;
-}
-
-nav {background-color: grey;
-    padding: 15px;
-}
-
-a {color: white;
-    }
-
-header {background-color: black;}
-
-h1 {color: aliceblue;}
